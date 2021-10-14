@@ -7,3 +7,5 @@ Since 2015 I've been living and breathing web development and testing. I've had 
 ### What I'm focusing on 👨‍💻
 
 Currently improving my Serverless skills: AWS Lambda, Step Functions, Google Functions.<br />
+
+Also passionate about Automation Tools like Terraform, Jenkins, CircleCI, Fastlane, Ansible.<br/>
